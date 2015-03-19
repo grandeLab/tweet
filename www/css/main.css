@@ -1,0 +1,16 @@
+body {
+  margin: 0; }
+
+.main-container {
+  background-color: #e1e9f4; }
+
+.tweet-container {
+  box-sizing: border-box;
+  background-color: #ccc;
+  color: #333;
+  padding: 10px;
+  width: 45%;
+  margin: 20px 2%;
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */
